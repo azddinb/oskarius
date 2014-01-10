@@ -4,4 +4,8 @@ Oskar is sweeet
 
 asdsdda
 
+<<<<<<< HEAD
 asdadsBran1
+=======
+asdadssddsadsdsaad
+>>>>>>> front
